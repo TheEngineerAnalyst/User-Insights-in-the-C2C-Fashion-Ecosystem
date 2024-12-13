@@ -2,7 +2,7 @@
 
 
 
-This file contains queries for an exploratory data analysis project using SQL in Google Cloud Console through BigQuery and Vertex AI with the following contributors: Bilvika Basetty, Michael Webber, Nruthya Vaka, Fan Hong (Sally) Kong, Shivneet Nag, and myself (Rebecca Bubis).
+This file contains queries for an exploratory data analysis project using SQL in Google Cloud Console through BigQuery and Vertex AI with the following contributors: Michael Webber, Nruthya Vaka, Fan Hong (Sally) Kong, Shivneet Nag, and myself (Rebecca Bubis).
 
 C2C, also known as consumer to consumer, is an emerging market for retail shoppers where consumers sell directly to one another usually through an intermediary platform. Though it is increasing in popularity, the market capacity of C2C is still less than traditional B2C retailers (Business to consumer). On the dataset, there is an increase in the ID Hash of new users registering to be consumers or suppliers on the C2C platforms. If the team identifies demographics and customer groups that are underserved in the C2C space, the team can make recommendations on how businesses can change their engagement efforts, offerings, and targeted incentives to improve a good user experience for the consumers. This approach can help convert potential buyers, driving sales and strengthening the platform’s customer base, and ultimately boost overall profitability and create a stronger customer base.
 
